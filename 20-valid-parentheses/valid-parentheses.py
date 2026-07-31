@@ -1,4 +1,5 @@
 class Solution:
+    #Solution 
     def isValid(self, s: str) -> bool:
         stack = []
         pairs = {
